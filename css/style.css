@@ -99,11 +99,17 @@ text-transform: uppercase;
 margin-left:  48px;    
 }
 .a{
+    
     float: right;
 }
 .c_href li a{
     color: red;
     text-decoration: none;
+    list-style-type:none;
+}
+.c_href li {
+    list-style-type:none;
+    
 }
 /*footer*/
 .footer{
