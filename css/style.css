@@ -68,6 +68,12 @@
 
 .info p {
     color: #333333;
+    float: left;
+}
+.video{
+    float: right;
+    margin-left: 50px;
+    margin-bottom: 50px;
 }
 
 .contact {
